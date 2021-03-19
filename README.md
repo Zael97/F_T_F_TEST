@@ -1,24 +1,21 @@
-# ftf_test
+# ftf_test (INSTRUCTIONS)
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and run frontend (Vue.js)
+
 ```
 npm run serve
+
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Compiles and run backend (Express.js)
 
-### Lints and fixes files
 ```
-npm run lint
-```
+npm run start
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
